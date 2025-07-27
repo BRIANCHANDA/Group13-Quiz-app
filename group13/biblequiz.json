@@ -1,0 +1,1586 @@
+[
+    {
+      "question": "Who was the first man created by God?",
+      "option_a": "Moses",
+      "option_b": "Adam",
+      "option_c": "Noah",
+      "option_d": "Abraham",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the garden where Adam and Eve lived?",
+      "option_a": "Gethsemane",
+      "option_b": "Eden",
+      "option_c": "Zion",
+      "option_d": "Galilee",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who built an ark to survive the flood?",
+      "option_a": "Moses",
+      "option_b": "Noah",
+      "option_c": "David",
+      "option_d": "Solomon",
+      "answer": "option_b"
+    },
+    {
+      "question": "How many days did God take to create the world?",
+      "option_a": "Five",
+      "option_b": "Six",
+      "option_c": "Seven",
+      "option_d": "Eight",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the mother of Jesus?",
+      "option_a": "Mary",
+      "option_b": "Martha",
+      "option_c": "Magdalene",
+      "option_d": "Elizabeth",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the sea that Moses parted?",
+      "option_a": "Dead Sea",
+      "option_b": "Red Sea",
+      "option_c": "Sea of Galilee",
+      "option_d": "Mediterranean Sea",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who betrayed Jesus for thirty pieces of silver?",
+      "option_a": "Peter",
+      "option_b": "Judas",
+      "option_c": "John",
+      "option_d": "Thomas",
+      "answer": "option_b"
+    },
+    {
+      "question": "What is the first book of the Bible?",
+      "option_a": "Exodus",
+      "option_b": "Leviticus",
+      "option_c": "Genesis",
+      "option_d": "Numbers",
+      "answer": "option_c"
+    },
+    {
+      "question": "Who was thrown into a lions' den but was unharmed?",
+      "option_a": "Daniel",
+      "option_b": "David",
+      "option_c": "Joseph",
+      "option_d": "Elijah",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the giant killed by David?",
+      "option_a": "Samson",
+      "option_b": "Goliath",
+      "option_c": "Saul",
+      "option_d": "Absalom",
+      "answer": "option_b"
+    },
+    {
+      "question": "How many commandments did God give to Moses?",
+      "option_a": "Seven",
+      "option_b": "Ten",
+      "option_c": "Twelve",
+      "option_d": "Fifteen",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the first king of Israel?",
+      "option_a": "David",
+      "option_b": "Saul",
+      "option_c": "Solomon",
+      "option_d": "Samuel",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the city where Jesus was born?",
+      "option_a": "Nazareth",
+      "option_b": "Jerusalem",
+      "option_c": "Bethlehem",
+      "option_d": "Capernaum",
+      "answer": "option_c"
+    },
+    {
+      "question": "Who was swallowed by a great fish?",
+      "option_a": "Jonah",
+      "option_b": "Elijah",
+      "option_c": "Isaiah",
+      "option_d": "Jeremiah",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the mountain where Moses received the Ten Commandments?",
+      "option_a": "Mount Zion",
+      "option_b": "Mount Sinai",
+      "option_c": "Mount Carmel",
+      "option_d": "Mount of Olives",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the father of Isaac?",
+      "option_a": "Jacob",
+      "option_b": "Abraham",
+      "option_c": "Joseph",
+      "option_d": "Moses",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the angel who announced the birth of Jesus to Mary?",
+      "option_a": "Michael",
+      "option_b": "Gabriel",
+      "option_c": "Raphael",
+      "option_d": "Uriel",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the disciple that denied Jesus three times?",
+      "option_a": "John",
+      "option_b": "Peter",
+      "option_c": "James",
+      "option_d": "Andrew",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the tower that people tried to build to reach heaven?",
+      "option_a": "Tower of Siloam",
+      "option_b": "Tower of Babel",
+      "option_c": "Tower of David",
+      "option_d": "Tower of Jericho",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the wife of Adam?",
+      "option_a": "Sarah",
+      "option_b": "Eve",
+      "option_c": "Rebekah",
+      "option_d": "Rachel",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the river where John the Baptist baptized Jesus?",
+      "option_a": "Nile",
+      "option_b": "Jordan",
+      "option_c": "Euphrates",
+      "option_d": "Tigris",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the father of King Solomon?",
+      "option_a": "Saul",
+      "option_b": "David",
+      "option_c": "Samuel",
+      "option_d": "Nathan",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the place where Jesus was crucified?",
+      "option_a": "Gethsemane",
+      "option_b": "Golgotha",
+      "option_c": "Bethlehem",
+      "option_d": "Nazareth",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the first high priest of Israel?",
+      "option_a": "Aaron",
+      "option_b": "Moses",
+      "option_c": "Eli",
+      "option_d": "Samuel",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the prophetess who judged Israel?",
+      "option_a": "Miriam",
+      "option_b": "Deborah",
+      "option_c": "Esther",
+      "option_d": "Ruth",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the king that built the first temple in Jerusalem?",
+      "option_a": "David",
+      "option_b": "Solomon",
+      "option_c": "Saul",
+      "option_d": "Hezekiah",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the man who carried Jesus' cross?",
+      "option_a": "Simon of Cyrene",
+      "option_b": "Joseph of Arimathea",
+      "option_c": "Nicodemus",
+      "option_d": "Lazarus",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the brother of Moses?",
+      "option_a": "Aaron",
+      "option_b": "Joshua",
+      "option_c": "Caleb",
+      "option_d": "Gideon",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the city where the walls fell after the Israelites marched around it?",
+      "option_a": "Jerusalem",
+      "option_b": "Jericho",
+      "option_c": "Bethlehem",
+      "option_d": "Hebron",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the disciple called the 'Beloved Disciple'?",
+      "option_a": "Peter",
+      "option_b": "John",
+      "option_c": "James",
+      "option_d": "Thomas",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the woman who hid the Israelite spies in Jericho?",
+      "option_a": "Rahab",
+      "option_b": "Ruth",
+      "option_c": "Esther",
+      "option_d": "Naomi",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the prophet that confronted King David about his sin with Bathsheba?",
+      "option_a": "Elijah",
+      "option_b": "Nathan",
+      "option_c": "Isaiah",
+      "option_d": "Jeremiah",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the mountain where Jesus was transfigured?",
+      "option_a": "Mount Sinai",
+      "option_b": "Mount Tabor",
+      "option_c": "Mount Zion",
+      "option_d": "Mount Carmel",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the man sold into slavery by his brothers?",
+      "option_a": "Jacob",
+      "option_b": "Joseph",
+      "option_c": "Isaac",
+      "option_d": "Esau",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the queen who visited King Solomon?",
+      "option_a": "Queen of Sheba",
+      "option_b": "Queen Esther",
+      "option_c": "Queen Jezebel",
+      "option_d": "Queen Vashti",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the prophet that was taken to heaven in a chariot of fire?",
+      "option_a": "Elijah",
+      "option_b": "Elisha",
+      "option_c": "Isaiah",
+      "option_d": "Jonah",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the disciple who doubted Jesus' resurrection until he saw Him?",
+      "option_a": "Peter",
+      "option_b": "Thomas",
+      "option_c": "Andrew",
+      "option_d": "Philip",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the father of Jacob and Esau?",
+      "option_a": "Abraham",
+      "option_b": "Isaac",
+      "option_c": "Joseph",
+      "option_d": "Moses",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the place where Abraham was about to sacrifice Isaac?",
+      "option_a": "Moriah",
+      "option_b": "Sinai",
+      "option_c": "Zion",
+      "option_d": "Carmel",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the first Christian martyr?",
+      "option_a": "Stephen",
+      "option_b": "Paul",
+      "option_c": "Barnabas",
+      "option_d": "Timothy",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the island where Paul was shipwrecked?",
+      "option_a": "Crete",
+      "option_b": "Malta",
+      "option_c": "Cyprus",
+      "option_d": "Patmos",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the wife of King Ahab?",
+      "option_a": "Jezebel",
+      "option_b": "Esther",
+      "option_c": "Ruth",
+      "option_d": "Bathsheba",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who replaced Judas as an apostle?",
+      "option_a": "Matthias",
+      "option_b": "Barnabas",
+      "option_c": "Silas",
+      "option_d": "Timothy",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the prophet that predicted the birth of Jesus in Bethlehem?",
+      "option_a": "Isaiah",
+      "option_b": "Micah",
+      "option_c": "Jeremiah",
+      "option_d": "Ezekiel",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the man who wrestled with an angel?",
+      "option_a": "Jacob",
+      "option_b": "Joseph",
+      "option_c": "Moses",
+      "option_d": "Joshua",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the mother of Samuel?",
+      "option_a": "Hannah",
+      "option_b": "Deborah",
+      "option_c": "Miriam",
+      "option_d": "Sarah",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the place where Jesus turned water into wine?",
+      "option_a": "Bethlehem",
+      "option_b": "Cana",
+      "option_c": "Nazareth",
+      "option_d": "Capernaum",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the king of Judah when Jerusalem fell to Babylon?",
+      "option_a": "Hezekiah",
+      "option_b": "Josiah",
+      "option_c": "Zedekiah",
+      "option_d": "Manasseh",
+      "answer": "option_c"
+    },
+    {
+      "question": "What was the name of the man who led the Israelites after Moses' death?",
+      "option_a": "Joshua",
+      "option_b": "Caleb",
+      "option_c": "Aaron",
+      "option_d": "Gideon",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the woman who saved her people by becoming queen of Persia?",
+      "option_a": "Ruth",
+      "option_b": "Esther",
+      "option_c": "Deborah",
+      "option_d": "Rahab",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the mountain where Elijah confronted the prophets of Baal?",
+      "option_a": "Mount Sinai",
+      "option_b": "Mount Carmel",
+      "option_c": "Mount Zion",
+      "option_d": "Mount Tabor",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the disciple that Jesus loved, according to the Gospel of John?",
+      "option_a": "Peter",
+      "option_b": "John",
+      "option_c": "James",
+      "option_d": "Andrew",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the man who was healed by Jesus at the pool of Bethesda?",
+      "option_a": "Bartimaeus",
+      "option_b": "Lazarus",
+      "option_c": "Unnamed",
+      "option_d": "Zacchaeus",
+      "answer": "option_c"
+    },
+    {
+      "question": "Who was the father of John the Baptist?",
+      "option_a": "Zechariah",
+      "option_b": "Simeon",
+      "option_c": "Joseph",
+      "option_d": "Eli",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the tax collector who climbed a tree to see Jesus?",
+      "option_a": "Matthew",
+      "option_b": "Zacchaeus",
+      "option_c": "Levi",
+      "option_d": "Simon",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the prophet that anointd David as king?",
+      "option_a": "Nathan",
+      "option_b": "Samuel",
+      "option_c": "Elijah",
+      "option_d": "Elisha",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the city where David established his capital?",
+      "option_a": "Hebron",
+      "option_b": "Jerusalem",
+      "option_c": "Bethlehem",
+      "option_d": "Shiloh",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the man who interpreted dreams for Pharaoh?",
+      "option_a": "Daniel",
+      "option_b": "Joseph",
+      "option_c": "Moses",
+      "option_d": "Samuel",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the disciple who was a tax collector?",
+      "option_a": "Matthew",
+      "option_b": "Simon",
+      "option_c": "Judas",
+      "option_d": "Thomas",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the king who threw Daniel into the lions' den?",
+      "option_a": "Nebuchadnezzar",
+      "option_b": "Darius",
+      "option_c": "Cyrus",
+      "option_d": "Belshazzar",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the garden where Jesus prayed before His arrest?",
+      "option_a": "Eden",
+      "option_b": "Gethsemane",
+      "option_c": "Olivet",
+      "option_d": "Bethesda",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the woman who anointed Jesus' feet with perfume?",
+      "option_a": "Mary Magdalene",
+      "option_b": "Martha",
+      "option_c": "Mary of Bethany",
+      "option_d": "Joanna",
+      "answer": "option_c"
+    },
+    {
+      "question": "What was the name of the man who was raised from the dead by Jesus?",
+      "option_a": "Lazarus",
+      "option_b": "Jairus",
+      "option_c": "Bartimaeus",
+      "option_d": "Zacchaeus",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the prophet that predicted a virgin would give birth to a son?",
+      "option_a": "Jeremiah",
+      "option_b": "Isaiah",
+      "option_c": "Ezekiel",
+      "option_d": "Micah",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the place where the Israelites crossed into the Promised Land?",
+      "option_a": "Jericho",
+      "option_b": "Jordan",
+      "option_c": "Gilgal",
+      "option_d": "Canaan",
+      "answer": "option_c"
+    },
+    {
+      "question": "Who was the man who offered his tomb for Jesus' burial?",
+      "option_a": "Nicodemus",
+      "option_b": "Joseph of Arimathea",
+      "option_c": "Simon of Cyrene",
+      "option_d": "Lazarus",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the woman who was married to Boaz?",
+      "option_a": "Ruth",
+      "option_b": "Naomi",
+      "option_c": "Esther",
+      "option_d": "Rahab",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the prophet that called down fire from heaven on Mount Carmel?",
+      "option_a": "Elisha",
+      "option_b": "Elijah",
+      "option_c": "Isaiah",
+      "option_d": "Jonah",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the disciple who was a fisherman with his brother Andrew?",
+      "option_a": "James",
+      "option_b": "Peter",
+      "option_c": "John",
+      "option_d": "Philip",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the king that had a dream interpreted by Daniel?",
+      "option_a": "Darius",
+      "option_b": "Cyrus",
+      "option_c": "Nebuchadnezzar",
+      "option_d": "Belshazzar",
+      "answer": "option_c"
+    },
+    {
+      "question": "What was the name of the city where Jesus raised a widow's son from the dead?",
+      "option_a": "Nain",
+      "option_b": "Capernaum",
+      "option_c": "Bethany",
+      "option_d": "Jericho",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who led the Israelites in the battle of Jericho?",
+      "option_a": "Moses",
+      "option_b": "Joshua",
+      "option_c": "Caleb",
+      "option_d": "Gideon",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the woman who killed Sisera with a tent peg?",
+      "option_a": "Deborah",
+      "option_b": "Jael",
+      "option_c": "Rahab",
+      "option_d": "Esther",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the prophet that succeeded Elijah?",
+      "option_a": "Elisha",
+      "option_b": "Isaiah",
+      "option_c": "Jeremiah",
+      "option_d": "Jonah",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the city where Paul was converted on the road to it?",
+      "option_a": "Jerusalem",
+      "option_b": "Damascus",
+      "option_c": "Antioch",
+      "option_d": "Ephesus",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the mother of Ishmael?",
+      "option_a": "Sarah",
+      "option_b": "Hagar",
+      "option_c": "Rebekah",
+      "option_d": "Rachel",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the man who was the father of the twelve tribes of Israel?",
+      "option_a": "Abraham",
+      "option_b": "Isaac",
+      "option_c": "Jacob",
+      "option_d": "Joseph",
+      "answer": "option_c"
+    },
+    {
+      "question": "Who was the man who wrote most of the Psalms?",
+      "option_a": "David",
+      "option_b": "Solomon",
+      "option_c": "Asaph",
+      "option_d": "Moses",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the place where Jesus fed 5,000 people?",
+      "option_a": "Bethsaida",
+      "option_b": "Capernaum",
+      "option_c": "Bethlehem",
+      "option_d": "Nazareth",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was struck dead for lying to the Holy Spirit?",
+      "option_a": "Ananias",
+      "option_b": "Sapphira",
+      "option_c": "Barnabas",
+      "option_d": "Silas",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the woman who was struck dead with her husband for lying to the Holy Spirit?",
+      "option_a": "Ananias",
+      "option_b": "Sapphira",
+      "option_c": "Lydia",
+      "option_d": "Priscilla",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the man who was blinded on the road to Damascus?",
+      "option_a": "Peter",
+      "option_b": "Paul",
+      "option_c": "Barnabas",
+      "option_d": "Silas",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the man who was the first to see Jesus after His resurrection?",
+      "option_a": "Peter",
+      "option_b": "John",
+      "option_c": "Thomas",
+      "option_d": "None",
+      "answer": "option_d"
+    },
+    {
+      "question": "Who was the woman who was a seller of purple cloth and a follower of Paul?",
+      "option_a": "Lydia",
+      "option_b": "Priscilla",
+      "option_c": "Phoebe",
+      "option_d": "Chloe",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the mountain where Abraham lived for a time?",
+      "option_a": "Moriah",
+      "option_b": "Sinai",
+      "option_c": "Hebron",
+      "option_d": "Zion",
+      "answer": "option_c"
+    },
+    {
+      "question": "Who was the man who was a centurion and the first Gentile convert?",
+      "option_a": "Cornelius",
+      "option_b": "Lazarus",
+      "option_c": "Nicodemus",
+      "option_d": "Zacchaeus",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a companion of Paul and Barnabas?",
+      "option_a": "Silas",
+      "option_b": "Timothy",
+      "option_c": "Titus",
+      "option_d": "Mark",
+      "answer": "option_d"
+    },
+    {
+      "question": "Who was the king who tried to kill the baby Jesus?",
+      "option_a": "Herod",
+      "option_b": "Pilate",
+      "option_c": "Caesar",
+      "option_d": "Agrippa",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a judge and a strongman in Israel?",
+      "option_a": "Gideon",
+      "option_b": "Samson",
+      "option_c": "Barak",
+      "option_d": "Jephthah",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the woman who was a queen and saved her people from Haman?",
+      "option_a": "Esther",
+      "option_b": "Vashti",
+      "option_c": "Ruth",
+      "option_d": "Naomi",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a prophet and a priest in Israel?",
+      "option_a": "Samuel",
+      "option_b": "Eli",
+      "option_c": "Nathan",
+      "option_d": "Gad",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a governor of Egypt under Pharaoh?",
+      "option_a": "Moses",
+      "option_b": "Joseph",
+      "option_c": "Daniel",
+      "option_d": "Ezra",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the place where Jesus walked on water?",
+      "option_a": "Dead Sea",
+      "option_b": "Sea of Galilee",
+      "option_c": "Red Sea",
+      "option_d": "Jordan River",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the man who was a prophet and performed miracles after Elijah?",
+      "option_a": "Elisha",
+      "option_b": "Isaiah",
+      "option_c": "Jeremiah",
+      "option_d": "Jonah",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the city where the first Christian church was established?",
+      "option_a": "Jerusalem",
+      "option_b": "Antioch",
+      "option_c": "Ephesus",
+      "option_d": "Corinth",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a companion of Paul and a doctor?",
+      "option_a": "Luke",
+      "option_b": "Mark",
+      "option_c": "Timothy",
+      "option_d": "Titus",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a blind beggar healed by Jesus?",
+      "option_a": "Bartimaeus",
+      "option_b": "Lazarus",
+      "option_c": "Zacchaeus",
+      "option_d": "Nicodemus",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the woman who was the mother-in-law of Ruth?",
+      "option_a": "Naomi",
+      "option_b": "Orpah",
+      "option_c": "Hannah",
+      "option_d": "Sarah",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a prophet and advised King David?",
+      "option_a": "Nathan",
+      "option_b": "Gad",
+      "option_c": "Samuel",
+      "option_d": "Elijah",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a disciple and wrote a Gospel?",
+      "option_a": "Matthew",
+      "option_b": "Mark",
+      "option_c": "Luke",
+      "option_d": "John",
+      "answer": "option_d"
+    },
+    {
+      "question": "What was the name of the place where Jesus was tempted by the devil?",
+      "option_a": "Desert",
+      "option_b": "Gethsemane",
+      "option_c": "Galilee",
+      "option_d": "Jerusalem",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a king and wrote Proverbs?",
+      "option_a": "David",
+      "option_b": "Solomon",
+      "option_c": "Saul",
+      "option_d": "Hezekiah",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the man who was a prophet and saw visions of dry bones?",
+      "option_a": "Ezekiel",
+      "option_b": "Isaiah",
+      "option_c": "Jeremiah",
+      "option_d": "Daniel",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the woman who was a judge and a prophetess in Israel?",
+      "option_a": "Deborah",
+      "option_b": "Miriam",
+      "option_c": "Hannah",
+      "option_d": "Esther",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a disciple and a brother of James?",
+      "option_a": "Peter",
+      "option_b": "John",
+      "option_c": "Andrew",
+      "option_d": "Philip",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the man who was a king and built a temple in Jerusalem?",
+      "option_a": "David",
+      "option_b": "Solomon",
+      "option_c": "Saul",
+      "option_d": "Hezekiah",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the place where Jesus was baptized?",
+      "option_a": "Jordan River",
+      "option_b": "Sea of Galilee",
+      "option_c": "Dead Sea",
+      "option_d": "Nile River",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a prophet and wrote the book of Revelation?",
+      "option_a": "John",
+      "option_b": "Peter",
+      "option_c": "Paul",
+      "option_d": "James",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a king and committed adultery with Bathsheba?",
+      "option_a": "Saul",
+      "option_b": "David",
+      "option_c": "Solomon",
+      "option_d": "Rehoboam",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the woman who was a follower of Jesus and was at the cross?",
+      "option_a": "Mary Magdalene",
+      "option_b": "Martha",
+      "option_c": "Joanna",
+      "option_d": "Salome",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a prophet and wrote about the suffering servant?",
+      "option_a": "Isaiah",
+      "option_b": "Jeremiah",
+      "option_c": "Ezekiel",
+      "option_d": "Daniel",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a disciple and a brother of Peter?",
+      "option_a": "James",
+      "option_b": "John",
+      "option_c": "Andrew",
+      "option_d": "Philip",
+      "answer": "option_c"
+    },
+    {
+      "question": "What was the name of the place where Jesus was arrested?",
+      "option_a": "Gethsemane",
+      "option_b": "Golgotha",
+      "option_c": "Bethlehem",
+      "option_d": "Nazareth",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a prophet and wept over Jerusalem?",
+      "option_a": "Isaiah",
+      "option_b": "Jeremiah",
+      "option_c": "Ezekiel",
+      "option_d": "Hosea",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the man who was a king and made a golden calf?",
+      "option_a": "Jeroboam",
+      "option_b": "Rehoboam",
+      "option_c": "Ahab",
+      "option_d": "Josiah",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the woman who was a sister of Moses and Aaron?",
+      "option_a": "Miriam",
+      "option_b": "Deborah",
+      "option_c": "Hannah",
+      "option_d": "Esther",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a disciple and a skeptic?",
+      "option_a": "Thomas",
+      "option_b": "Peter",
+      "option_c": "John",
+      "option_d": "James",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a king and rebuilt the walls of Jerusalem?",
+      "option_a": "Nehemiah",
+      "option_b": "Ezra",
+      "option_c": "Hezekiah",
+      "option_d": "Josiah",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the place where Jesus gave the Sermon on the Mount?",
+      "option_a": "Mount Sinai",
+      "option_b": "Mount of Olives",
+      "option_c": "Mount Tabor",
+      "option_d": "Galilee",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the man who was a prophet and married a prostitute as a sign?",
+      "option_a": "Hosea",
+      "option_b": "Joel",
+      "option_c": "Amos",
+      "option_d": "Micah",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a disciple and a zealot?",
+      "option_a": "Simon",
+      "option_b": "Judas",
+      "option_c": "Thomas",
+      "option_d": "Philip",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the woman who was a queen and refused to obey King Ahasuerus?",
+      "option_a": "Esther",
+      "option_b": "Vashti",
+      "option_c": "Ruth",
+      "option_d": "Naomi",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the man who was a prophet and saw a wheel within a wheel?",
+      "option_a": "Ezekiel",
+      "option_b": "Isaiah",
+      "option_c": "Jeremiah",
+      "option_d": "Daniel",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a king and found the Book of the Law?",
+      "option_a": "Josiah",
+      "option_b": "Hezekiah",
+      "option_c": "Manasseh",
+      "option_d": "Rehoboam",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the place where Jesus was tried before Pilate?",
+      "option_a": "Praetorium",
+      "option_b": "Gethsemane",
+      "option_c": "Golgotha",
+      "option_d": "Sanhedrin",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a prophet and called Nineveh to repent?",
+      "option_a": "Jonah",
+      "option_b": "Elijah",
+      "option_c": "Elisha",
+      "option_d": "Isaiah",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a disciple and a brother of John?",
+      "option_a": "Peter",
+      "option_b": "James",
+      "option_c": "Andrew",
+      "option_d": "Philip",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the woman who was a sister of Lazarus?",
+      "option_a": "Mary",
+      "option_b": "Martha",
+      "option_c": "Both A and B",
+      "option_d": "Joanna",
+      "answer": "option_c"
+    },
+    {
+      "question": "What was the name of the man who was a prophet and predicted the day of the Lord?",
+      "option_a": "Joel",
+      "option_b": "Hosea",
+      "option_c": "Amos",
+      "option_d": "Micah",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a king and united the kingdom of Israel?",
+      "option_a": "Saul",
+      "option_b": "David",
+      "option_c": "Solomon",
+      "option_d": "Jeroboam",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the place where Jesus ascended to heaven?",
+      "option_a": "Mount of Olives",
+      "option_b": "Mount Tabor",
+      "option_c": "Mount Zion",
+      "option_d": "Mount Sinai",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a prophet and wrote about the new covenant?",
+      "option_a": "Isaiah",
+      "option_b": "Jeremiah",
+      "option_c": "Ezekiel",
+      "option_d": "Daniel",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the man who was a disciple and a friend of Jesus?",
+      "option_a": "Lazarus",
+      "option_b": "Nicodemus",
+      "option_c": "Joseph of Arimathea",
+      "option_d": "Zacchaeus",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the woman who was a prophetess and met Jesus at the temple?",
+      "option_a": "Anna",
+      "option_b": "Hannah",
+      "option_c": "Deborah",
+      "option_d": "Miriam",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a king and divided the kingdom?",
+      "option_a": "Rehoboam",
+      "option_b": "Jeroboam",
+      "option_c": "Saul",
+      "option_d": "David",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a prophet and predicted the Messiah's suffering?",
+      "option_a": "Isaiah",
+      "option_b": "Jeremiah",
+      "option_c": "Ezekiel",
+      "option_d": "Daniel",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the place where Jesus was born?",
+      "option_a": "Nazareth",
+      "option_b": "Bethlehem",
+      "option_c": "Jerusalem",
+      "option_d": "Capernaum",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the man who was a disciple and a fisherman with his brother James?",
+      "option_a": "Peter",
+      "option_b": "John",
+      "option_c": "Andrew",
+      "option_d": "Philip",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the man who was a prophet and wrote about the valley of dry bones?",
+      "option_a": "Ezekiel",
+      "option_b": "Isaiah",
+      "option_c": "Jeremiah",
+      "option_d": "Daniel",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the woman who was a follower of Jesus and supported His ministry?",
+      "option_a": "Joanna",
+      "option_b": "Mary Magdalene",
+      "option_c": "Martha",
+      "option_d": "All of the above",
+      "answer": "option_d"
+    },
+    {
+      "question": "What was the name of the man who was a king and known for his wisdom?",
+      "option_a": "David",
+      "option_b": "Solomon",
+      "option_c": "Saul",
+      "option_d": "Hezekiah",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the man who was a prophet and predicted the Messiah's birthplace?",
+      "option_a": "Micah",
+      "option_b": "Isaiah",
+      "option_c": "Jeremiah",
+      "option_d": "Ezekiel",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the place where Jesus performed His first miracle?",
+      "option_a": "Cana",
+      "option_b": "Capernaum",
+      "option_c": "Bethlehem",
+      "option_d": "Nazareth",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a disciple and a tax collector?",
+      "option_a": "Matthew",
+      "option_b": "Zacchaeus",
+      "option_c": "Simon",
+      "option_d": "Judas",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a prophet and saw a vision of God's throne?",
+      "option_a": "Isaiah",
+      "option_b": "Jeremiah",
+      "option_c": "Ezekiel",
+      "option_d": "Daniel",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the woman who was a mother of Isaac?",
+      "option_a": "Sarah",
+      "option_b": "Rebekah",
+      "option_c": "Rachel",
+      "option_d": "Leah",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a king and defeated Goliath?",
+      "option_a": "David",
+      "option_b": "Saul",
+      "option_c": "Solomon",
+      "option_d": "Jonathan",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a prophet and predicted the fall of Jerusalem?",
+      "option_a": "Jeremiah",
+      "option_b": "Isaiah",
+      "option_c": "Ezekiel",
+      "option_d": "Daniel",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the place where Jesus was crucified?",
+      "option_a": "Gethsemane",
+      "option_b": "Golgotha",
+      "option_c": "Bethlehem",
+      "option_d": "Nazareth",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the man who was a disciple and a brother of Andrew?",
+      "option_a": "Peter",
+      "option_b": "John",
+      "option_c": "James",
+      "option_d": "Philip",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a prophet and predicted the Messiah's coming?",
+      "option_a": "Isaiah",
+      "option_b": "Jeremiah",
+      "option_c": "Ezekiel",
+      "option_d": "Daniel",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the woman who was a mother of Jacob and Esau?",
+      "option_a": "Sarah",
+      "option_b": "Rebekah",
+      "option_c": "Rachel",
+      "option_d": "Leah",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the man who was a king and built the temple?",
+      "option_a": "David",
+      "option_b": "Solomon",
+      "option_c": "Saul",
+      "option_d": "Hezekiah",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the man who was a prophet and saw visions of the end times?",
+      "option_a": "Daniel",
+      "option_b": "Isaiah",
+      "option_c": "Jeremiah",
+      "option_d": "Ezekiel",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the place where Jesus was transfigured?",
+      "option_a": "Mount Sinai",
+      "option_b": "Mount Tabor",
+      "option_c": "Mount Zion",
+      "option_d": "Mount of Olives",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the woman who was a mother of Joseph and Benjamin?",
+      "option_a": "Sarah",
+      "option_b": "Rebekah",
+      "option_c": "Rachel",
+      "option_d": "Leah",
+      "answer": "option_c"
+    },
+    {
+      "question": "What was the name of the man who was a prophet and called for repentance?",
+      "option_a": "John the Baptist",
+      "option_b": "Elijah",
+      "option_c": "Elisha",
+      "option_d": "Jonah",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a king and known for his psalms?",
+      "option_a": "David",
+      "option_b": "Solomon",
+      "option_c": "Saul",
+      "option_d": "Hezekiah",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the place where Jesus was buried?",
+      "option_a": "Gethsemane",
+      "option_b": "Golgotha",
+      "option_c": "Tomb",
+      "option_d": "Bethlehem",
+      "answer": "option_c"
+    },
+    {
+      "question": "Who was the woman who was a mother of Samuel?",
+      "option_a": "Hannah",
+      "option_b": "Deborah",
+      "option_c": "Miriam",
+      "option_d": "Sarah",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a prophet and saw a vision of a suffering servant?",
+      "option_a": "Isaiah",
+      "option_b": "Jeremiah",
+      "option_c": "Ezekiel",
+      "option_d": "Daniel",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a disciple and betrayed Jesus?",
+      "option_a": "Peter",
+      "option_b": "Judas",
+      "option_c": "John",
+      "option_d": "Thomas",
+      "answer": "option_b"
+    },
+    {
+      "question": "What was the name of the place where Jesus fed 4,000 people?",
+      "option_a": "Bethsaida",
+      "option_b": "Capernaum",
+      "option_c": "Decapolis",
+      "option_d": "Galilee",
+      "answer": "option_c"
+    },
+    {
+      "question": "Who was the man who was a prophet and predicted the Messiah's betrayal?",
+      "option_a": "Zechariah",
+      "option_b": "Isaiah",
+      "option_c": "Jeremiah",
+      "option_d": "Ezekiel",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a king and known for his proverbs?",
+      "option_a": "David",
+      "option_b": "Solomon",
+      "option_c": "Saul",
+      "option_d": "Hezekiah",
+      "answer": "option_b"
+    },
+    {
+      "question": "Who was the woman who was a mother of Solomon?",
+      "option_a": "Bathsheba",
+      "option_b": "Abigail",
+      "option_c": "Michal",
+      "option_d": "Naomi",
+      "answer": "option_a"
+    },
+    {
+      "question": "What was the name of the man who was a prophet and saw a vision of a new temple?",
+      "option_a": "Ezekiel",
+      "option_b": "Isaiah",
+      "option_c": "Jeremiah",
+      "option_d": "Daniel",
+      "answer": "option_a"
+    },
+    {
+      "question": "Who was the man who was a disciple and a brother of Philip?",
+      "option_a": "Peter",
+      "option_b": "Andrew",
+      "option_c": "James",
+      "option_d": "Bartholomew",
+      "answer": "option_d"
+    },
+    {
+        "question": "Who was the man who was a prophet and predicted the Messiah's birth in Bethlehem?",
+        "option_a": "Micah",
+        "option_b": "Isaiah",
+        "option_c": "Jeremiah",
+        "option_d": "Ezekiel",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the place where Jacob had a dream of a ladder to heaven?",
+        "option_a": "Bethel",
+        "option_b": "Hebron",
+        "option_c": "Shiloh",
+        "option_d": "Gilgal",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the woman who was a mother of John the Baptist?",
+        "option_a": "Elizabeth",
+        "option_b": "Mary",
+        "option_c": "Anna",
+        "option_d": "Martha",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the man who was a judge and led Israel against the Midianites?",
+        "option_a": "Gideon",
+        "option_b": "Samson",
+        "option_c": "Barak",
+        "option_d": "Jephthah",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the man who was a prophet and predicted the Messiah's entry on a donkey?",
+        "option_a": "Zechariah",
+        "option_b": "Isaiah",
+        "option_c": "Jeremiah",
+        "option_d": "Malachi",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the place where Jesus healed a man born blind?",
+        "option_a": "Siloam",
+        "option_b": "Bethesda",
+        "option_c": "Capernaum",
+        "option_d": "Jericho",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the man who was a king and restored the temple?",
+        "option_a": "Hezekiah",
+        "option_b": "Josiah",
+        "option_c": "Manasseh",
+        "option_d": "Rehoboam",
+        "answer": "option_b"
+      },
+      {
+        "question": "What was the name of the woman who was a mother of Moses?",
+        "option_a": "Jochebed",
+        "option_b": "Miriam",
+        "option_c": "Zipporah",
+        "option_d": "Hannah",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the man who was a disciple and known as the 'Son of Thunder'?",
+        "option_a": "James",
+        "option_b": "Peter",
+        "option_c": "Andrew",
+        "option_d": "Philip",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the place where Jesus calmed a storm?",
+        "option_a": "Sea of Galilee",
+        "option_b": "Dead Sea",
+        "option_c": "Red Sea",
+        "option_d": "Jordan River",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the man who was a prophet and predicted the Messiah's piercing?",
+        "option_a": "Zechariah",
+        "option_b": "Isaiah",
+        "option_c": "Jeremiah",
+        "option_d": "Ezekiel",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the man who was a king and known for his idolatry?",
+        "option_a": "Manasseh",
+        "option_b": "Josiah",
+        "option_c": "Hezekiah",
+        "option_d": "Rehoboam",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the woman who was a sister of Martha and Lazarus?",
+        "option_a": "Mary",
+        "option_b": "Joanna",
+        "option_c": "Salome",
+        "option_d": "Susanna",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the place where Jesus raised Jairus' daughter?",
+        "option_a": "Capernaum",
+        "option_b": "Nain",
+        "option_c": "Bethany",
+        "option_d": "Jericho",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the man who was a prophet and predicted the Messiah's birth by a virgin?",
+        "option_a": "Isaiah",
+        "option_b": "Jeremiah",
+        "option_c": "Ezekiel",
+        "option_d": "Micah",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the man who was a judge and made a vow that cost his daughter?",
+        "option_a": "Jephthah",
+        "option_b": "Gideon",
+        "option_c": "Samson",
+        "option_d": "Barak",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the woman who was a mother of Samson?",
+        "option_a": "Unnamed",
+        "option_b": "Hannah",
+        "option_c": "Jochebed",
+        "option_d": "Deborah",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the place where Jesus met the Samaritan woman?",
+        "option_a": "Sychar",
+        "option_b": "Bethany",
+        "option_c": "Capernaum",
+        "option_d": "Jericho",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the man who was a prophet and predicted the Messiah's lineage from David?",
+        "option_a": "Isaiah",
+        "option_b": "Jeremiah",
+        "option_c": "Ezekiel",
+        "option_d": "Nathan",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the man who was a king and known for his reforms?",
+        "option_a": "Hezekiah",
+        "option_b": "Josiah",
+        "option_c": "Manasseh",
+        "option_d": "Rehoboam",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the woman who was a follower of Jesus and healed of seven demons?",
+        "option_a": "Mary Magdalene",
+        "option_b": "Joanna",
+        "option_c": "Susanna",
+        "option_d": "Martha",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the place where Jesus taught the Lord's Prayer?",
+        "option_a": "Mount of Olives",
+        "option_b": "Galilee",
+        "option_c": "Jerusalem",
+        "option_d": "Capernaum",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the man who was a prophet and predicted the Messiah's rejection?",
+        "option_a": "Isaiah",
+        "option_b": "Jeremiah",
+        "option_c": "Ezekiel",
+        "option_d": "Zechariah",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the man who was a judge and fought with 300 men?",
+        "option_a": "Gideon",
+        "option_b": "Samson",
+        "option_c": "Barak",
+        "option_d": "Jephthah",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the woman who was a mother of Isaac?",
+        "option_a": "Sarah",
+        "option_b": "Rebekah",
+        "option_c": "Rachel",
+        "option_d": "Leah",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the place where Jesus healed a leper?",
+        "option_a": "Galilee",
+        "option_b": "Jericho",
+        "option_c": "Capernaum",
+        "option_d": "Bethany",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the man who was a prophet and predicted the Messiah's priesthood?",
+        "option_a": "Zechariah",
+        "option_b": "Isaiah",
+        "option_c": "Jeremiah",
+        "option_d": "Malachi",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the man who was a king and known for his prayer?",
+        "option_a": "Hezekiah",
+        "option_b": "Josiah",
+        "option_c": "Manasseh",
+        "option_d": "Rehoboam",
+        "answer": "option_a"
+      },
+      {
+        "question": "Who was the woman who was a sister of Aaron and Moses?",
+        "option_a": "Miriam",
+        "option_b": "Jochebed",
+        "option_c": "Zipporah",
+        "option_d": "Hannah",
+        "answer": "option_a"
+      },
+      {
+        "question": "What was the name of the place where Jesus cast out demons into pigs?",
+        "option_a": "Gerasenes",
+        "option_b": "Capernaum",
+        "option_c": "Bethany",
+        "option_d": "Jericho",
+        "answer": "option_a"
+      }
+  ]
